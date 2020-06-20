@@ -1,4 +1,4 @@
 # COVID Tweets Analysis
 
-Analysis of the Twitter activity during the COVID times. 
+Analysis of Twitter activity during COVID times. 
 
