@@ -1,5 +1,6 @@
 temp*
 .DS_Store
+.ipynb_checkpoints
 data/*
 notebooks/1-LoadData.ipynb
 notebooks/.ipynb_checkpoints
